@@ -1,0 +1,36 @@
+1)cd project_dir
+2)git init
+3)touch index.html
+4)git status
+5)git add index.html
+6)git commit -m "index commited"
+7)touch info.txt
+8)git status
+9)touch .gitignore
+10)git status
+11)git add index.html
+git commit -m "index commited again"
+12)git log
+13)
+14)git revert -n 1be5f055978a1f03611eb4148a26524fb077f4ce
+15)
+16)git add index.html
+17)git reset HEAD index.html
+18)git config --global alias.my-add add
+19)git my-add index.html
+20)git revert
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

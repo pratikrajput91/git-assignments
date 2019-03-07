@@ -1,0 +1,47 @@
+section 1
+1)mkdir assignments
+2)cd assignments
+3)touch README.txt
+4)git init
+git add README.txt
+git commit -m "readme commited"
+5)git branch html_assignment
+6)git checkout html_assignment
+7)
+8)git add pizza
+ git add BANK_APP
+git commit -m "html assignment committed"
+9)
+10)git add pizza
+git commit -m "added changes to pizza"
+11)git checkout master
+12)git add README.txt
+   git commit -m "added changes to readme"
+13) git checkout html_assignment
+14)
+15)git add BANK_APP
+   git commit -m "added changes to bank app"
+16)git checkout master
+17)git merge html_assignment
+18)git branch -d html_assignment
+
+
+section 2
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
